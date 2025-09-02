@@ -12,7 +12,8 @@ This was originally asked for by TobyRoc on Reddit in r/ableton.
 
 ## Changelog
 
-* 2025-09-01 [v1](https://github.com/zsteinkamp/m4l-ClearSends/raw/main/frozen/ClearSends-v1.amxd) - Initial release.
+* 2025-09-02 [v2](https://github.com/zsteinkamp/m4l-ClearSends/raw/main/frozen/ClearSends-v2.amxd) - Make button mappable
+* 2025-09-01 [v1](https://github.com/zsteinkamp/m4l-ClearSends/raw/main/frozen/ClearSends-v1.amxd) - Initial release
 
 ## Usage
 
